@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "643af19b73389b8c4d217382"
+  },
+  "name": "José Carlos",
+  "lastName": "Silva",
+  "phone": "27 9999-9999",
+  "email": "josesilva@gmail.com",
+  "createdAt": {
+    "$date": "2023-04-15T18:43:50.431Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643af2040d96f3b440e0a839"
+  },
+  "name": "Paula",
+  "lastName": "Almeida",
+  "phone": "71 9929-9293",
+  "email": "robertinha@gmail.com",
+  "createdAt": {
+    "$date": "2023-04-15T18:49:37.407Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643b04a988d7784be9f04e0b"
+  },
+  "name": "Julia",
+  "lastName": "Socorro",
+  "phone": "71 9929-9293",
+  "email": "julia@gmail.com",
+  "password": "$2b$10$6kf2E7SnTK2z4WZccB0oSuPtxH/xkbwIfAuC9jOd00tc4K9qOkg/C",
+  "createdAt": {
+    "$date": "2023-04-15T20:07:36.936Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643b0efaa5d7df67007c402c"
+  },
+  "name": "Kalleby",
+  "lastName": "Bueno",
+  "phone": "34 9999-9999",
+  "email": "kalleby@gmail.com",
+  "password": "$2b$10$JDQw5FKM8M69curM5dEDcemKPnOTRjkmnSFEEs.C7XIwbaL5KVxdm",
+  "createdAt": {
+    "$date": "2023-04-15T20:54:13.691Z"
+  },
+  "__v": 0
+}]

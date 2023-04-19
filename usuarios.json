@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "643f4a1271c4ee71c15f5f53"
+  },
+  "name": "João",
+  "email": "joaofelipe@gmail.com",
+  "password": "123456",
+  "age": 23,
+  "createdAt": {
+    "$date": "2023-04-19T01:53:11.862Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f4ba071c4ee71c15f5f5a"
+  },
+  "name": "João",
+  "email": "joaofelix@gmail.com",
+  "password": "123456",
+  "age": 34,
+  "createdAt": {
+    "$date": "2023-04-19T01:53:11.862Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f4bc971c4ee71c15f5f60"
+  },
+  "name": "João",
+  "email": "joaofelix@gmail.com",
+  "password": "123456",
+  "age": 34,
+  "createdAt": {
+    "$date": "2023-04-19T01:53:11.862Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f4bd771c4ee71c15f5f65"
+  },
+  "name": "João",
+  "email": "joao@gmail.com",
+  "password": "123456",
+  "age": 34,
+  "createdAt": {
+    "$date": "2023-04-19T01:53:11.862Z"
+  },
+  "__v": 0
+}]
